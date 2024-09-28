@@ -4509,6 +4509,22 @@ https://7pal.short.gy/nhlnw
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" group-title="Sports 4K", USA:UFC_24/7
 https://7pal.short.gy/ufc247
 
+#EXTINF:-1, group-title="Sports Working" SKY Sport 1 UK
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847 #EXTINF:-1, Sky Sport 2 UK
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847 #EXTINF:-1, SKY Sport 3 UK
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847 #EXTINF:-1, SKY Sport 4 UK
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847 #EXTINF:-1, SKY Sport 5 UK
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+#EXTINF:-1, group-title="Sports Working" Sport Mix UK
+http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+#EXTINF:-1, group-title="Sports Working" BT Sport 1
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+#EXTINF:-1, group-title="Sports Working" BT Sport 2
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+#EXTINF:-1, group-title="Sports Working" BT Sport Extra
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 1
 https://7pal.short.gy/event1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 2
